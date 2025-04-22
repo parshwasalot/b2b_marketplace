@@ -1,0 +1,59 @@
+Prompt 1:
+Create a new Flutter project named "b2b_marketplace" with the following structure:
+- Authentication (Login/Signup for buyers and sellers)
+- Product listing page
+- Product details page
+- User profile management
+- Simple order placement system
+
+Include the necessary dependencies in pubspec.yaml:
+- firebase_core and firebase_auth for authentication
+- cloud_firestore for database
+- provider for state management
+- flutter_image_picker for handling images
+
+Prompt 2:
+Design a simple, clean UI for the B2B marketplace app with:
+- A splash screen with app logo
+- Login/signup screens with form fields
+- Home screen with product categories and featured products
+- Product listing screen with search functionality
+- Product detail screen with basic information and "Contact Seller" button
+- User profile screen with basic info and order history
+- Bottom navigation with Home, Search, Orders, and Profile tabs
+
+Prompt 3:
+Implement Firebase authentication with:
+- Email/password signup and login
+- User type selection (Buyer/Seller) during signup
+- Form validation for input fields
+- Password reset functionality
+- User session management
+- Error handling for auth failures
+
+Prompt 4:
+Create a Firestore database structure with:
+- Users collection (with user type, contact info)
+- Products collection (with name, description, price, category, seller ID)
+- Orders collection (with buyer ID, product IDs, status)
+
+Implement product listing screens:
+- Fetch and display products from Firestore
+- Filter products by category
+- Search functionality by product name
+- Sort products by price or rating
+
+Prompt 5:
+Create a seller dashboard with:
+- Product management (add, edit, delete)
+- Simple product upload form with image selection
+- Order management (view, accept, reject, mark as shipped)
+- Basic analytics (number of products, orders, views)
+
+Prompt 6:
+Implement buyer-specific features:
+- Product browsing and searching
+- Contact seller functionality
+- Place order with basic checkout form
+- Order history and status tracking
+- Favorite/save products functionality

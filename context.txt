@@ -1,0 +1,3 @@
+I want to create a simple b2b marketplace app using flutter. 
+it is just a college mini project so make it simple.
+

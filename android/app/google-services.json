@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160061922861",
+    "project_id": "b2b-marketplace-56d28",
+    "storage_bucket": "b2b-marketplace-56d28.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160061922861:android:6c83ba9a0fac613036e2a4",
+        "android_client_info": {
+          "package_name": "com.example.b2b_marketplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0CoR3F_GHxlXJTFjUV7uCvM4PK6p7jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
